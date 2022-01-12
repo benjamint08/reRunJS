@@ -2,7 +2,7 @@
 
 "A simple JavaScript file that allows you to 're-run' scripts."
 
-##How to use it:
+## How to use it:
 
 In your `<head>` of your HTML file, add:
 
